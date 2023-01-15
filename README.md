@@ -2,7 +2,7 @@
 
 This project is an amazon-clone, with a dedicated login page, home screen, checkout page, and payment page. 
 
-Visit the site here: http://haris-sujethan.github.io/Full-Stack-E-commerce-Website
+Visit the site here: https://clone-7e415.web.app/
 
 ![](images/LoginPage.PNG)
 
