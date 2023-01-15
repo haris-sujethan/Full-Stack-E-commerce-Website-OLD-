@@ -1,5 +1,5 @@
 {
-  "homepage": "http://haris-sujethan.github.io/Full-Stack-Amazon-Clone",
+  "homepage": "http://haris-sujethan.github.io/Full-Stack-E-commerce-Website",
   "name": "amazon-clone",
   "version": "0.1.0",
   "private": true,
@@ -49,5 +49,8 @@
   "description": "This project is an amazon-clone, with a dedicated login page, home screen, cart page, and checkout page.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
